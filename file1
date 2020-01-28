@@ -1,0 +1,34 @@
+<html dir="rtl">
+	<head>
+		<title>Internet Technologies</title>
+	</head>
+
+	<body>
+		<center><h1 title="HTML">Internet Technologies</h1><center/>
+		<center>	
+		<p style ="color:Blue ;font-size:50">Lab 1</p><hr width ="50%" size=3 noshade/>
+	
+		<p style="color:red" align="center"><b>Basic html document</b></p>
+		<p>   <u>head</u> <br/>
+		      <u>title</u> <br/>
+		      <u>body</u><br/>
+  		      <u>h1 </u>-<i> for heading</i><br/>
+		     <u> p</u>- <i>paragraph</i><br/>
+		      <u>br </u>-<i>line break</i><br/>
+		      <u>style</u><br/>
+		      <u>center</u>-<i>puts the content in center</i><br/>
+		      <u>hr</u>- <i>horizontal lines that are used to visually break up sections of a document</i><br/>
+		     <u> align</u><br/>
+		      <u> subscript</u>- <i>x<sup>2</sup><sub>3</sub></i><br/>
+		      <u> strike text</u>- <i><strike>paragraph</strike></i><br/>
+		      <u> inserted text</u>- <i><ins>Inserts the element</ins></i><br/>
+		      <u> deleted text</u>- <i><del>element displayed is deleted</del></i><br/>
+			<u> large text</u>- <i><big>Enlarges the text</big></i><br/>
+			<u> smaller text</u>- <i><small>Displays text of smaller size</small></i><br/>
+
+</p></center>
+			
+	</body>
+</html>
+
+
