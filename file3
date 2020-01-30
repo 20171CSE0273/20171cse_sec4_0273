@@ -1,0 +1,75 @@
+<html>
+<head>
+	<title>30/01/2020</title>
+</head>
+
+<body>
+	<div id="it_lab" align="center"  >
+	<h3><span style="color:Red">Internet</span></h3>
+	<p> <span style="color:Green;font:bold">Content goes like this</span></p>
+	<p>Internet is the huge collection of computer connected in a communication network</p>
+	</div>
+	<div id='123' align="center" >
+	<ul type="square">
+	<li><em>Emphasized text</em></li>
+	<li><mark>Marked text</mark></li>
+	<li><strong>Strong text</strong></li>
+	<li><bdo>text direction</bdo></li>
+	<li><q>Short quotation</q></li>
+	<li><address>address text</address></li>	
+	</ul>
+	<ol type='i' start='8'>
+	<li>Emphasized text</li>
+	<li>Marked text</li>
+	<li>Strong text</li>
+	<li>text direction</li>
+	<li>Short quotaion</li>
+	<li>address text</li>	
+	</ol>
+	<dl>
+	</div>
+	<dt> HTML </dt>
+	<dd> Hyper text markup language</dd>
+	</dl>
+	<h2>Safety Tips</h2>
+	<ol type='i'>
+	<li>Be able to swim</li>
+	<li>Wear a life jacket at all times</li>
+	<li>Doont stand up or move around.If canoe tips,
+		<ul type="square">
+		<li>Hang on to the canoe</li>
+		<li>Use the canoe for support and</li>
+		<li>Swim to solve</li>
+		</ul>
+	</li>
+	<li>Dont overexert yourself</li>
+	<li>Use a bow light at night</li>
+	</ol>
+	<table width='3px' border="solid black" bgcolor="#ff0045" cellpadding=4>
+	<caption> Meals details</caption>
+	<tr style='background-color:#780056'>
+		<th/>
+		<th>Breakfast</th>
+		<th>Lunch</th>
+		<th>Dinner</th>
+	</tr>
+	<tr >
+		<th style="background-color:#00ff00">Day 1</th>
+		<td align='right' >1</td>
+		<td align='right'>0</td>
+		<td align='right'>1</td>
+	</tr>
+	<tr>
+		<th style="background-color:#00ff00">Day 2</th>
+		<td align='right'>1</td>
+		<td align='right'>1</td>
+		<td align='right'>1</td>
+	</tr>
+	</table>
+	<p> Click <a href="http://www.google.com">here</a></p>
+	<p>  <a NAME="/home/cse4/20171CSE0273/file1.html"></a>
+	<a href="/home/cse4/20171CSE0273/file1.html">click here to go to file</a> </p>
+</body>
+</html>
+	
+		
