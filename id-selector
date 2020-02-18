@@ -1,0 +1,26 @@
+<html>
+<head>
+	<style>
+	#first{
+		text-align:center;
+		color:white;
+		background-color:blue;
+		padding:40px;
+		font-size:400%;
+	}
+	#large{
+		font-size:300%;
+	}
+	#color{
+		text-align:center;
+		color:yellow;
+		background-color:red;
+		}
+	</style>
+</head>
+<body>
+	<h1 id="color">WELCOME TO PRESIDENCY UNIVERSITY</h1>
+	<p id="first">WELCOME TO CSE</p>
+	<p id="large">WELCOME TO 6CSE4</p>
+</body>
+</html>
