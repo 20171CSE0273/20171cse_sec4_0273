@@ -1,0 +1,20 @@
+<html>
+	<head>
+	<title>Child selector</title>
+	<style type="text/css" media=all>
+	div> p{
+		background-color:green;
+		color:white;
+		padding=2px;	
+	}
+	</style>
+	</head>
+	<body style="text-align:center;">
+		<div>
+			<h2 style="color:green;">CSS CHILD SELECTOR</h2>
+			<p>COMPUTER SCIENCE</p>
+			<p>PAragraph 3</p>
+		</div>
+		<p>CSS CHILD SELECTOR</p>	
+	</body>
+</html>		

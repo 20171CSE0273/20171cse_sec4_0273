@@ -1,0 +1,23 @@
+<html>
+<head>
+	<style>
+	p.first{
+		text-align:center;
+		color:white;
+		background-color:blue;
+	}
+	p.large{
+		font-size:100px;
+	}
+	h1.color{
+		text-align:center;
+		color:red;
+		background-color:black;
+		}
+	</style>
+</head>
+<body>
+	<h1 class="color">WELCOME TO PRESIDENCY UNIVERSITY</h1>
+	<p class="first large">WELCOME TO CSE<p>
+</body>
+</html>
