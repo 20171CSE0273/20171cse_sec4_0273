@@ -1,0 +1,15 @@
+<html>
+<head>
+	<style>
+	*{
+		color:green;
+	}
+
+	</style>
+</head>
+<body>
+	<h1>WELCOME TO PRESIDENCY UNIVERSITY</h1>
+	<p>WELCOME TO CSE</p>
+	<p>WELCOME TO 6CSE4</p>
+</body>
+</html>
