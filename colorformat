@@ -1,0 +1,35 @@
+<html>
+	<head>
+		<style type = "text/css" media = "all">
+	h1 {
+		color:#ff00ff;
+		
+        	}
+	h2 {
+		color: rgb(45%,10%,60%);
+		
+        	}
+	h3 {
+		color:#ABC;
+		
+        	}
+	h4 {
+		color: rgb(255,0,0);
+		
+        	}
+	h5 {
+		color: teal;
+		
+        	}
+		</style>
+	<title>Internal</title>
+</head>
+<body>
+<h1>Internal /Embedded</h1>
+<h2>Internal /Embedded</h2>
+<h3>Internal /Embedded</h3>
+<h4>Internal /Embedded</h4>
+<h5>Internal /Embedded</h5>
+
+</body>
+</html>
